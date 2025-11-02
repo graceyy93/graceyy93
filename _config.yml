@@ -23,7 +23,7 @@ repository               : "graceyy93/YunYang"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   name             : "Yun Yang"
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant Professor <br> School of Energy Resources <br> University of Wyoming"
