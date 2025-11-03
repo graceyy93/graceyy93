@@ -5,14 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
----
-
 ## Refereed Archival Journal Papers  
 
 > A full, up-to-date publication list is available on [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=nWLXUzMAAAAJ&view_op=list_works&sortby=pubdate).
@@ -72,6 +64,6 @@ author_profile: true
 ---
 
 **2015**  
-**3.** Wang, T., **Yang, C.**, Shi, X., Ma, H., Li, Y., **Yang, Y.**, & Daemen, J. J. K. (2015). *Failure analysis of thick interlayer from leaching of bedded salt caverns.* **International Journal of Rock Mechanics and Mining Sciences**, 73, 175–183.  
-**2.** Liu, W., Li, Y., **Yang, C.**, Daemen, J. J., **Yang, Y.**, & Zhang, G. (2015). *Permeability characteristics of mudstone cap rock and interlayers in bedded salt formations and tightness assessment for underground gas storage caverns.* **Engineering Geology**, 193, 212–223.  
-**1.** Yang, C., Wang, T., Li, Y., **Yang, H.**, Li, J., Xu, B., **Yang, Y.**, & Daemen, J. J. K. (2015). *Feasibility analysis of using abandoned salt caverns for large-scale underground energy storage in China.* **Applied Energy**, 137, 467–481.
+**3.** Wang, T., Yang, C., Shi, X., Ma, H., Li, Y., **Yang, Y.**, & Daemen, J. J. K. (2015). *Failure analysis of thick interlayer from leaching of bedded salt caverns.* **International Journal of Rock Mechanics and Mining Sciences**, 73, 175–183.  
+**2.** Liu, W., Li, Y., Yang, C., Daemen, J. J., **Yang, Y.**, & Zhang, G. (2015). *Permeability characteristics of mudstone cap rock and interlayers in bedded salt formations and tightness assessment for underground gas storage caverns.* **Engineering Geology**, 193, 212–223.  
+**1.** Yang, C., Wang, T., Li, Y., Yang, C., Li, J., Xu, B., **Yang, Y.**, & Daemen, J. J. K. (2015). *Feasibility analysis of using abandoned salt caverns for large-scale underground energy storage in China.* **Applied Energy**, 137, 467–481.
