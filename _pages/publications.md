@@ -12,12 +12,12 @@ A full, up-to-date publication list is available on [**Google Scholar**](https:/
 ---
 
 ### **2025**
-**[23]** **Yang, Y.**, Neil, C. W., Guiltinan, E. J., Mao, S., Mehana, M., Kang, Q., Liu, S., Germann, T. C., & Gross, M. R. (2025). *Experimental Characterization of Hydrogen Diffusion in Shale Rocks for Geologic Storage Applications.* **ACS Earth and Space Chemistry**, American Chemical Society. *Publication date:* June 17 2025.  
+**[23]** **Yang, Y.**, Neil, C. W., Guiltinan, E. J., Mao, S., Mehana, M., Kang, Q., Liu, S., Germann, T. C., & Gross, M. R. (2025). *Experimental Characterization of Hydrogen Diffusion in Shale Rocks for Geologic Storage Applications.* **ACS Earth and Space Chemistry**, 9(7) 1858-1870.  
 
 ---
 
 ### **2024**
-**[22]** Neil, C. W., **Yang, Y.**, Nisbet, H., Iyare, U. C., Boampong, L. O., Li, W., … & Viswanathan, H. S. (2024). *An integrated experimental–modeling approach to identify key processes for carbon mineralization in fractured mafic and ultramafic rocks.* **PNAS Nexus**, 3(9), pgae388. 
+**[22]** Neil, C. W., **Yang, Y.**, Nisbet, H., Iyare, U. C., Boampong, L. O., Li, W., … & Viswanathan, H. S. (2024). *An integrated experimental–modeling approach to identify key processes for carbon mineralization in fractured mafic and ultramafic rocks.* **PNAS Nexus**, 3(9), 388. 
 
 **[21]** **Yang, Y.**, Zandanel, A., Liu, S., Neil, C. W., Germann, T. C., & Gross, M. R. (2024). *Temperature dependence of hydrogen diffusion in reservoir rocks: Implications for hydrogen geologic storage.* **Energy Advances**, 3(8), 2051–2065.  
 
@@ -35,7 +35,7 @@ A full, up-to-date publication list is available on [**Google Scholar**](https:/
 
 **[17]** Ma, H., **Yang, Y.**, Zhang, Y., Li, Z., Zhang, K., Xue, Z., Zhan, J., & Chen, Z. (2022). *Optimized schemes of enhanced shale gas recovery by CO₂–N₂ mixtures associated with CO₂ sequestration.* **Energy Conversion and Management**, 268, 116062. 
 
-**[16]** **Yang, Y.**, Liu, S., & Clarkson, C. (2022). *Quantification of Temperature-Dependent Sorption Isotherms in Shale Gas Reservoirs: Experiment and Theory.* **SPE Journal**, 1–19.  
+**[16]** **Yang, Y.**, Liu, S., & Clarkson, C. (2022). *Quantification of Temperature-Dependent Sorption Isotherms in Shale Gas Reservoirs: Experiment and Theory.* **SPE Journal**,  27(05), 3001–3019..  
 
 ---
 
